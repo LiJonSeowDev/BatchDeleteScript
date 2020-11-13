@@ -1,0 +1,3 @@
+test\target1.txt
+test\target2.txt
+test folder with space\target3.txt
